@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 # ignoring Jupyer lab notebook checkpoints
+*.csv
+# ignore all .csv files
+*.txt
+# ignore all .txt files
