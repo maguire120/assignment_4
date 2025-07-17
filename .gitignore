@@ -4,3 +4,4 @@
 # ignore all .csv files
 *.txt
 # ignore all .txt files
+*.sh
